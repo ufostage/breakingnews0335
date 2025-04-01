@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BREKING NEWS_속보</title>
+  <title>만우절 속보</title>
   <style>
     body {
       background-color: #111;
@@ -32,9 +32,9 @@
   </style>
 </head>
 <body>
-  <h1>APRIL FOOLS!</h1>
+  <h1>또 속았냐 막내야!</h1>
 
-  <img src="https://i.imgur.com/EpCrTDW.jpeg" alt="트럼프 삿대질">
+  <img src="PAF20201127141001055_P4.jpg" alt="트럼프 삿대질">
 
   <div class="caption">오늘은 속는 새끼가 나쁜 법입니다</div>
 </body>
